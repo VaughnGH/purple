@@ -1,4 +1,5 @@
-purple
+notpurple
 ======
 
-Some of [purple.com](http://www.purple.com/).
+A NEW FOE HAS APPEARED!
+his name is [notpurple.com](http://www.notpurple.com/).
